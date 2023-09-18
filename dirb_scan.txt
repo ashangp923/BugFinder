@@ -1,0 +1,268 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: ./bug_output/dirb_scan.txt
+START_TIME: Sun Sep 17 10:32:41 2023
+URL_BASE: http://www.thomasgallschool.com/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://www.thomasgallschool.com/ ----
++ http://www.thomasgallschool.com/.profile (CODE:403|SIZE:1229)
++ http://www.thomasgallschool.com/.svn (CODE:403|SIZE:1229)
+==> DIRECTORY: http://www.thomasgallschool.com/~adm/
+==> DIRECTORY: http://www.thomasgallschool.com/~admin/
+==> DIRECTORY: http://www.thomasgallschool.com/~administrator/
+==> DIRECTORY: http://www.thomasgallschool.com/~amanda/
+==> DIRECTORY: http://www.thomasgallschool.com/~apache/
+==> DIRECTORY: http://www.thomasgallschool.com/~bin/
+==> DIRECTORY: http://www.thomasgallschool.com/~ftp/
+==> DIRECTORY: http://www.thomasgallschool.com/~guest/
+==> DIRECTORY: http://www.thomasgallschool.com/~http/
+==> DIRECTORY: http://www.thomasgallschool.com/~httpd/
+==> DIRECTORY: http://www.thomasgallschool.com/~log/
+==> DIRECTORY: http://www.thomasgallschool.com/~logs/
+==> DIRECTORY: http://www.thomasgallschool.com/~lp/
+==> DIRECTORY: http://www.thomasgallschool.com/~mail/
+==> DIRECTORY: http://www.thomasgallschool.com/~nobody/
+==> DIRECTORY: http://www.thomasgallschool.com/~operator/
+==> DIRECTORY: http://www.thomasgallschool.com/~root/
+==> DIRECTORY: http://www.thomasgallschool.com/~sys/
+==> DIRECTORY: http://www.thomasgallschool.com/~sysadm/
+==> DIRECTORY: http://www.thomasgallschool.com/~sysadmin/
+==> DIRECTORY: http://www.thomasgallschool.com/~test/
+==> DIRECTORY: http://www.thomasgallschool.com/~tmp/
+==> DIRECTORY: http://www.thomasgallschool.com/~user/
+==> DIRECTORY: http://www.thomasgallschool.com/~webmaster/
+==> DIRECTORY: http://www.thomasgallschool.com/~www/
+==> DIRECTORY: http://www.thomasgallschool.com/bandwidth/
+==> DIRECTORY: http://www.thomasgallschool.com/cgi-sys/
++ http://www.thomasgallschool.com/controlpanel (CODE:301|SIZE:0)
++ http://www.thomasgallschool.com/cpanel (CODE:301|SIZE:0)
++ http://www.thomasgallschool.com/error_log (CODE:403|SIZE:1229)
+==> DIRECTORY: http://www.thomasgallschool.com/java-sys/
+==> DIRECTORY: http://www.thomasgallschool.com/mailman/
+==> DIRECTORY: http://www.thomasgallschool.com/pipermail/
++ http://www.thomasgallschool.com/webmail (CODE:301|SIZE:0)
+
+---- Entering directory: http://www.thomasgallschool.com/~adm/ ----
++ http://www.thomasgallschool.com/~adm/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~admin/ ----
++ http://www.thomasgallschool.com/~admin/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~administrator/ ----
++ http://www.thomasgallschool.com/~administrator/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~amanda/ ----
++ http://www.thomasgallschool.com/~amanda/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~apache/ ----
++ http://www.thomasgallschool.com/~apache/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~bin/ ----
++ http://www.thomasgallschool.com/~bin/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~ftp/ ----
++ http://www.thomasgallschool.com/~ftp/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~guest/ ----
++ http://www.thomasgallschool.com/~guest/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~http/ ----
++ http://www.thomasgallschool.com/~http/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~httpd/ ----
++ http://www.thomasgallschool.com/~httpd/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~log/ ----
++ http://www.thomasgallschool.com/~log/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~logs/ ----
++ http://www.thomasgallschool.com/~logs/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~lp/ ----
++ http://www.thomasgallschool.com/~lp/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~mail/ ----
++ http://www.thomasgallschool.com/~mail/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~nobody/ ----
++ http://www.thomasgallschool.com/~nobody/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~operator/ ----
++ http://www.thomasgallschool.com/~operator/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~root/ ----
+(!) WARNING: All responses for this directory seem to be CODE = 403.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: http://www.thomasgallschool.com/~sys/ ----
++ http://www.thomasgallschool.com/~sys/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~sysadm/ ----
++ http://www.thomasgallschool.com/~sysadm/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~sysadmin/ ----
++ http://www.thomasgallschool.com/~sysadmin/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/~test/ ----
++ http://www.thomasgallschool.com/~test/.svn (CODE:403|SIZE:1229)
++ http://www.thomasgallschool.com/~test/dynamic (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/dyop_addtocart (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/dyop_delete (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/dyop_quan (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/e (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/E (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/e107_admin (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/e107_files (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/e107_handlers (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/e2fs (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ear (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/easy (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ebay (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/eblast (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ebook (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ebooks (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ebriefs (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ec (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ecard (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ecards (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/echannel (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ecommerce (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ecrire (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edge (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edgy (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edit (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edit_link (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edit_profile (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/editaddress (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/editor (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/editorial (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/editorials (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/editors (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/editpost (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edits (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edp (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/edu (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/education (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/Education (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ee (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/effort (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/efforts (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/egress (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ehdaa (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/ejb (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/el (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/electronics (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/element (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/elements (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/elmar (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/em (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/email (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/e-mail (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/email-addresses (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emailafriend (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/email-a-friend (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emailer (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emailhandler (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emailing (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emailproduct (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emails (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emailsignup (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emailtemplates (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/embed (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/embedd (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/embedded (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emea (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emergency (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emoticons (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/employee (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/employees (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/employers (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/employment (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/empty (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emu (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/emulator (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/en (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/en_us (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/en_US (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/enable-cookies (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/enc (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/encode (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/encoder (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/encrypt (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/encrypted (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/encryption (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/encyption (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/end (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/enduser (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/endusers (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/energy (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/enews (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/eng (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/engine (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/engines (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/english (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/English (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/enterprise (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/entertainment (CODE:301|SIZE:707)
++ http://www.thomasgallschool.com/~test/Entertainment (CODE:301|SIZE:707)
+(!) WARNING: Too many responses for this directory seem to be FOUND.
+    (Something is going wrong - Try Other Scan Mode)
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: http://www.thomasgallschool.com/~tmp/ ----
+(!) WARNING: NOT_FOUND[] not stable, unable to determine correct URLs {30X}.
+    (Try using FineTunning: '-f')
+
+---- Entering directory: http://www.thomasgallschool.com/~user/ ----
+(!) WARNING: NOT_FOUND[] not stable, unable to determine correct URLs {30X}.
+    (Try using FineTunning: '-f')
+
+---- Entering directory: http://www.thomasgallschool.com/~webmaster/ ----
+(!) WARNING: NOT_FOUND[] not stable, unable to determine correct URLs {30X}.
+    (Try using FineTunning: '-f')
+
+---- Entering directory: http://www.thomasgallschool.com/~www/ ----
+(!) WARNING: NOT_FOUND[] not stable, unable to determine correct URLs {30X}.
+    (Try using FineTunning: '-f')
+
+---- Entering directory: http://www.thomasgallschool.com/bandwidth/ ----
++ http://www.thomasgallschool.com/bandwidth/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/cgi-sys/ ----
++ http://www.thomasgallschool.com/cgi-sys/.svn (CODE:403|SIZE:1229)
++ http://www.thomasgallschool.com/cgi-sys/index.html (CODE:500|SIZE:73)
+
+---- Entering directory: http://www.thomasgallschool.com/java-sys/ ----
++ http://www.thomasgallschool.com/java-sys/.svn (CODE:403|SIZE:1229)
+
+---- Entering directory: http://www.thomasgallschool.com/mailman/ ----
++ http://www.thomasgallschool.com/mailman/.svn (CODE:403|SIZE:1229)
++ http://www.thomasgallschool.com/mailman/admin (CODE:200|SIZE:1696)
+==> DIRECTORY: http://www.thomasgallschool.com/mailman/archives/
++ http://www.thomasgallschool.com/mailman/confirm (CODE:200|SIZE:830)
++ http://www.thomasgallschool.com/mailman/create (CODE:500|SIZE:86)
++ http://www.thomasgallschool.com/mailman/listinfo (CODE:200|SIZE:1627)
++ http://www.thomasgallschool.com/mailman/options (CODE:200|SIZE:871)
++ http://www.thomasgallschool.com/mailman/private (CODE:200|SIZE:452)
++ http://www.thomasgallschool.com/mailman/subscribe (CODE:200|SIZE:442)
+
+---- Entering directory: http://www.thomasgallschool.com/pipermail/ ----
++ http://www.thomasgallschool.com/pipermail/.svn (CODE:403|SIZE:1229)
++ http://www.thomasgallschool.com/pipermail/index.html (CODE:200|SIZE:0)
+
+---- Entering directory: http://www.thomasgallschool.com/mailman/archives/ ----
++ http://www.thomasgallschool.com/mailman/archives/.svn (CODE:403|SIZE:1229)
++ http://www.thomasgallschool.com/mailman/archives/index.html (CODE:200|SIZE:0)
+
+-----------------
+END_TIME: Sun Sep 17 20:47:29 2023
+DOWNLOADED: 121474 - FOUND: 142

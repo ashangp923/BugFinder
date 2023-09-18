@@ -1,0 +1,16 @@
+# Nmap 7.93 scan initiated Sun Sep 17 10:25:04 2023 as: nmap -p- -oN ./bug_output/nmap_scan.txt www.thomasgallschool.com
+Nmap scan report for www.thomasgallschool.com (198.54.120.137)
+Host is up (0.019s latency).
+rDNS record for 198.54.120.137: premium54-4.web-hosting.com
+Not shown: 65527 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+25/tcp   open  smtp
+80/tcp   open  http
+443/tcp  open  https
+2082/tcp open  infowave
+2083/tcp open  radsec
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+
+# Nmap done at Sun Sep 17 10:32:41 2023 -- 1 IP address (1 host up) scanned in 457.89 seconds
